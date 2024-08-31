@@ -1,0 +1,59 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    margin: 20px;
+}
+
+.skills {
+    letter-spacing: 5px;
+    color: #757575;
+}
+
+.bg-gray {
+    background-color: #616161;
+}
+
+.packages:hover .package-name{
+    background-color: #616161;
+}
+
+.packages:hover .package-features {
+    background-color: white;
+}
+
+.packages:hover .signup-bg {
+    background-color: #F1F1F1;
+}
+
+.packages:hover .signup {
+    background-color: #FFFFFF;
+}
+
+.package-name {
+    background-color: #3A3A3A;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 24px;
+}
+
+.package-features {
+    background-color: #999999;
+    color: black;
+    padding-top: 20px;
+}
+
+.signup-bg {
+    background-color: #909090;
+    padding: 20px;
+    margin: 0 !important;
+}
+
+.signup {
+    background-color: #999999;
+    color: black;
+    border-width: 0;
+    padding: 10px 15px;
+}
+
+.gray-text {
+    color: #757575;
+}
